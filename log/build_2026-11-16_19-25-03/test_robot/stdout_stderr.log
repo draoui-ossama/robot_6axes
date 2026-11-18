@@ -1,0 +1,18 @@
+running develop
+running egg_info
+creating test_robot.egg-info
+writing test_robot.egg-info/PKG-INFO
+writing dependency_links to test_robot.egg-info/dependency_links.txt
+writing requirements to test_robot.egg-info/requires.txt
+writing top-level names to test_robot.egg-info/top_level.txt
+writing manifest file 'test_robot.egg-info/SOURCES.txt'
+reading manifest file 'test_robot.egg-info/SOURCES.txt'
+writing manifest file 'test_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test-robot.egg-link (link to .)
+
+Installed /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot
+running symlink_data
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+symbolically linking /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/resource/test_robot -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+symbolically linking /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/package.xml -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot

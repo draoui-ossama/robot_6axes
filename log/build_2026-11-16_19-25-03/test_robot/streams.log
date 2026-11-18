@@ -1,0 +1,20 @@
+[1.151s] Invoking command in '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build --no-deps symlink_data
+[1.448s] running develop
+[1.617s] running egg_info
+[1.636s] creating test_robot.egg-info
+[1.636s] writing test_robot.egg-info/PKG-INFO
+[1.637s] writing dependency_links to test_robot.egg-info/dependency_links.txt
+[1.637s] writing requirements to test_robot.egg-info/requires.txt
+[1.637s] writing top-level names to test_robot.egg-info/top_level.txt
+[1.637s] writing manifest file 'test_robot.egg-info/SOURCES.txt'
+[1.676s] reading manifest file 'test_robot.egg-info/SOURCES.txt'
+[1.677s] writing manifest file 'test_robot.egg-info/SOURCES.txt'
+[1.696s] running build_ext
+[1.696s] Creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test-robot.egg-link (link to .)
+[1.697s] 
+[1.697s] Installed /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot
+[1.697s] running symlink_data
+[1.697s] creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+[1.697s] symbolically linking /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/resource/test_robot -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+[1.697s] symbolically linking /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/package.xml -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot
+[1.740s] Invoked command in '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build --no-deps symlink_data

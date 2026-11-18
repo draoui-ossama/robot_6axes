@@ -1,0 +1,23 @@
+[0.931s] Invoking command in '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/src/test_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/test_robot build --build-base /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build install --record /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/install.log --install-scripts $base/lib/test_robot --single-version-externally-managed install_data
+[1.246s] running egg_info
+[1.268s] writing ../../build/test_robot/test_robot.egg-info/PKG-INFO
+[1.269s] writing dependency_links to ../../build/test_robot/test_robot.egg-info/dependency_links.txt
+[1.270s] writing requirements to ../../build/test_robot/test_robot.egg-info/requires.txt
+[1.270s] writing top-level names to ../../build/test_robot/test_robot.egg-info/top_level.txt
+[1.318s] reading manifest file '../../build/test_robot/test_robot.egg-info/SOURCES.txt'
+[1.319s] writing manifest file '../../build/test_robot/test_robot.egg-info/SOURCES.txt'
+[1.320s] running build
+[1.320s] running build_py
+[1.320s] copying test_robot/__init__.py -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot
+[1.320s] copying test_robot/py.typed -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot
+[1.321s] running install
+[1.326s] running install_lib
+[1.348s] running install_data
+[1.348s] copying resource/test_robot -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+[1.349s] copying package.xml -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot
+[1.349s] running install_egg_info
+[1.371s] removing '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot-0.0.0-py3.14.egg-info' (and everything under it)
+[1.371s] Copying ../../build/test_robot/test_robot.egg-info to /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot-0.0.0-py3.14.egg-info
+[1.372s] running install_scripts
+[1.484s] writing list of installed files to '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/install.log'
+[1.536s] Invoked command in '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/src/test_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/test_robot build --build-base /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build install --record /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/install.log --install-scripts $base/lib/test_robot --single-version-externally-managed install_data

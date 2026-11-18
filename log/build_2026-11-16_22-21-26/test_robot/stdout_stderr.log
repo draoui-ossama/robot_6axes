@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/test_robot/test_robot.egg-info
+writing ../../build/test_robot/test_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/test_robot/test_robot.egg-info/dependency_links.txt
+writing requirements to ../../build/test_robot/test_robot.egg-info/requires.txt
+writing top-level names to ../../build/test_robot/test_robot.egg-info/top_level.txt
+writing manifest file '../../build/test_robot/test_robot.egg-info/SOURCES.txt'
+reading manifest file '../../build/test_robot/test_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/test_robot/test_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot
+copying test_robot/__init__.py -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot
+copying test_robot/py.typed -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot
+running install
+running install_lib
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot
+copying /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot/py.typed -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot
+copying /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/build/lib/test_robot/__init__.py -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot
+byte-compiling /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot/__init__.py to __init__.cpython-314.pyc
+running install_data
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+copying resource/test_robot -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot/config
+copying config/controllers.yaml -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot/config
+creating /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot/urdf
+copying urdf/robot_geometry.xacro -> /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/share/test_robot/urdf
+running install_egg_info
+Copying ../../build/test_robot/test_robot.egg-info to /home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/install/test_robot/lib/python3.14/site-packages/test_robot-0.0.0-py3.14.egg-info
+running install_scripts
+writing list of installed files to '/home/ossama/Desktop/ROBOTICS/first_exemple/ros2_ws/build/test_robot/install.log'
